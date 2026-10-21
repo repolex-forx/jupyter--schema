@@ -1,0 +1,29 @@
+{
+  "manifest_version": "1.0",
+  "org": "jupyter",
+  "repo": "schema",
+  "versions": [
+    {
+      "commit": "6ab0f1f8d8387a00e08287162112df6b332b27d9",
+      "parsed_at": "2026-10-21T22:16:56.765539+00:00",
+      "filetree": "filetree/6ab0f1f8d8387a00e08287162112df6b332b27d9.nq.gz",
+      "blobs": [
+        "blob/9ff77fea2339f328d7ad6d8b24c7421759b4f34a.nq.gz",
+        "blob/2ac0119aa96f35ebe6bd2969a5d456db8efea223.nq.gz",
+        "blob/6e43ce0e82e95fae6aa5aa9935b90a420d6890e3.nq.gz",
+        "blob/0088ccc19f484ac8a2d3a145d8380658e4ac6cd2.nq.gz",
+        "blob/ababf4b3f6e8048163f8754a01fad3a45f8854df.nq.gz",
+        "blob/68bc17f9ff2104a9d7b6777058bb4c343ca72609.nq.gz",
+        "blob/f9c9b53e63a5454462a4f16289bda9e90fc357f3.nq.gz",
+        "blob/f883617202f5bf574993575b7b0d39fe6b7b62c4.nq.gz",
+        "blob/abee8326720849df164f24fe313cbc542a3db31f.nq.gz",
+        "blob/4d141a6488109ab4eed9486dfeb4c2a53140a3b6.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
