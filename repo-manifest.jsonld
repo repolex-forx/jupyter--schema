@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/jupyter/schema/commit/6ab0f1f8d8387a00e08287162112df6b332b27d9",
       "git:hexsha": "6ab0f1f8d8387a00e08287162112df6b332b27d9",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-21T22:20:04.660606+00:00"
     }
   ]
 }
